@@ -43,7 +43,7 @@ Plus WGSL shaders, CI and deployment, Claude Code and MCP.
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 DartArena
+### DartArena
 
 Cross-platform darts companion with ranked mode, online matches and career stats. My most complete Flutter project. **[Web app](https://dartarena.web.app)**
 
@@ -54,7 +54,7 @@ Cross-platform darts companion with ranked mode, online matches and career stats
 </td>
 <td width="50%" valign="top">
 
-### 🏅 [MiniOlympiade](https://github.com/PhoenixFlyy/MiniOlympiade)
+### [MiniOlympiade](https://github.com/PhoenixFlyy/MiniOlympiade)
 
 Flutter app that runs a team tournament for friends, with live scores and standings.
 
@@ -66,7 +66,7 @@ Flutter app that runs a team tournament for friends, with live scores and standi
 <tr>
 <td width="50%" valign="top">
 
-### ⛏️ [Firmament Ages](https://github.com/PhoenixFlyy/firmament-ages)
+### [Firmament Ages](https://github.com/PhoenixFlyy/firmament-ages)
 
 Co-op Minecraft modpack on [CurseForge](https://www.curseforge.com/minecraft/modpacks/firmament-ages), with my own Java mod and Python build tooling.
 
@@ -76,7 +76,7 @@ Co-op Minecraft modpack on [CurseForge](https://www.curseforge.com/minecraft/mod
 </td>
 <td width="50%" valign="top">
 
-### 📱 Bingable
+### Bingable
 
 Flutter app for learning languages with the series you watch. I built the app; two friends handled data and design.
 
@@ -93,7 +93,7 @@ Flutter app for learning languages with the series you watch. I built the app; t
 <tr>
 <td width="50%" valign="top">
 
-### ⚔️ Voidforge Arena
+### Voidforge Arena
 
 GameLab 3. 2.5D auto-battler on my own C++ engine with OpenGL and an entity component system.
 
@@ -102,7 +102,7 @@ GameLab 3. 2.5D auto-battler on my own C++ engine with OpenGL and an entity comp
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Bridging from 2D Diagrams to 4D Scenes
+### Bridging from 2D Diagrams to 4D Scenes
 
 Bachelor thesis. Web viewer that links a 2D process timeline to a 4D construction scene. React, three.js.
 
@@ -113,7 +113,7 @@ Bachelor thesis. Web viewer that links a 2D process timeline to a 4D constructio
 <tr>
 <td width="50%" valign="top">
 
-### 📷 [Mobile VR Camera](https://github.com/PhoenixFlyy/MobileVRCamera)
+### [Mobile VR Camera](https://github.com/PhoenixFlyy/MobileVRCamera)
 
 GameLab 2. Android app that turns two smartphones into a stereoscopic camera over Bluetooth. Kotlin.
 
@@ -122,7 +122,7 @@ GameLab 2. Android app that turns two smartphones into a stereoscopic camera ove
 </td>
 <td width="50%" valign="top">
 
-### 🎨 [ChaosPainter](https://github.com/PhoenixFlyy/ChaosPainter)
+### [ChaosPainter](https://github.com/PhoenixFlyy/ChaosPainter)
 
 GameLab 1. First-person paint shooter in Unreal Engine where every colour changes the world.
 
