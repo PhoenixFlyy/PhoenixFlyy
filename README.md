@@ -93,13 +93,24 @@ Flutter app for learning languages with the series you watch. I built the app; t
 <tr>
 <td width="50%" valign="top">
 
-### Voidforge Arena
+### [Gravity Gauntlet](https://store.steampowered.com/app/4156560/Gravity_Gauntlet/)
+
+Game Studio course, team of about 30. Puzzle platformer with six-directional gravity, now heading to Steam. I built gameplay mechanics, animations and sound. Unity, C#.
+
+<img src="assets/gravity-gauntlet.jpg" alt="Gravity Gauntlet first-person view with the gauntlet" width="100%" />
+
+</td>
+<td width="50%" valign="top">
+
+### [Voidforge Arena](https://github.com/PhoenixFlyy/VoidforgeArena)
 
 GameLab 3. 2.5D auto-battler on my own C++ engine with OpenGL and an entity component system.
 
 <img src="assets/voidforge-arena.jpg" alt="Voidforge Arena battle on a hex grid" width="100%" />
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Bridging from 2D Diagrams to 4D Scenes
@@ -109,8 +120,6 @@ Bachelor thesis. Web viewer that links a 2D process timeline to a 4D constructio
 <img src="assets/bridging-2d-4d.jpg" alt="Space-time cube above a construction site in the thesis viewer" width="100%" />
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Mobile VR Camera](https://github.com/PhoenixFlyy/MobileVRCamera)
@@ -120,13 +129,15 @@ GameLab 2. Android app that turns two smartphones into a stereoscopic camera ove
 <img src="assets/mobile-vr-camera.jpg" alt="Stereoscopic photo taken with Mobile VR Camera" width="100%" />
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### [ChaosPainter](https://github.com/PhoenixFlyy/ChaosPainter)
 
 GameLab 1. First-person paint shooter in Unreal Engine where every colour changes the world.
 
-<img src="assets/chaospainter.jpg" alt="ChaosPainter gameplay" width="100%" />
+<img src="assets/chaospainter.jpg" alt="ChaosPainter gameplay" width="49%" />
 
 </td>
 </tr>
