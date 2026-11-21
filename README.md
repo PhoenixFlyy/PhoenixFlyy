@@ -95,7 +95,7 @@ Flutter app for learning languages with the series you watch. I built the app; t
 
 ### [Gravity Gauntlet](https://store.steampowered.com/app/4156560/Gravity_Gauntlet/)
 
-Game Studio course, team of about 30. Puzzle platformer with six-directional gravity, now heading to Steam. I built gameplay mechanics, animations and sound. Unity, C#.
+Game Studio team project, coming to Steam. Gravity puzzle platformer; I built mechanics, animations and sound. Unity.
 
 <img src="assets/gravity-gauntlet.jpg" alt="Gravity Gauntlet first-person view with the gauntlet" width="100%" />
 
