@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Hi,%20I'm%20Felix&fontColor=ffffff&fontSize=46&fontAlignY=38" alt="Hi, I'm Felix" width="100%" />
 
-<a href="https://www.linkedin.com/in/felix-scheuerpflug-624000245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/felix-scheuerpflug/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:Felix.Scheuerpflug+github@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
